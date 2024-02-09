@@ -4,13 +4,17 @@
     margin-top: 150px;
 }
 
+.textos{
+    margin-top: 300px;
+}
+
 body{
     background-color: #212121;
     font-family: 'Playfair Display';font-size: 22px;
 }
 
 .claro{
-    color:azure
+    color:gainsboro
 }
 
 .card1{
@@ -25,6 +29,12 @@ body{
 }
 
 
-.obscuro{
+.creditos{
     color: #787878
+}
+
+
+.obscuro{
+    color: #212121;
+    margin-top: 300px;
 }
