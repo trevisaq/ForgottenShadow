@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = 'cachoeira';
+var respostareal = '';
 var sleepSetTimeout_ctrl;
 
 function sleep(ms) {
@@ -13,6 +13,6 @@ entrar.addEventListener('click', () => {
     if (resposta === respostareal){
         alert('...Parabéns, você mandou bem!')
         sleep(10000)
-        window.location.href = "../Desafios/desafio1.html"
+        window.location.href = "../desafio2/desafio2.html"
     }
 });
