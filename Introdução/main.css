@@ -1,19 +1,25 @@
 .imagens{
-    width: 500px;
-    height: 300px;
+    width: 550px;
+    height: 350px;
     margin-top: 150px;
 }
 
 body{
     background-color: #212121;
+    font-family: 'Playfair Display';font-size: 22px;
 }
 
 .claro{
-    color:aliceblue;
-    margin-top:200px;
+    color:azure
 }
 
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
-.botao{
-    margin-top: 50px;
+.btn{
+    margin: 20px;
 }
