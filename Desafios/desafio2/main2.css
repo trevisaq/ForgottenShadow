@@ -1,0 +1,30 @@
+.imagens{
+    width: 550px;
+    height: 350px;
+    margin-top: 150px;
+}
+
+body{
+    background-color: #212121;
+    font-family: 'Playfair Display';font-size: 22px;
+}
+
+.claro{
+    color:azure
+}
+
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    margin: 20px;
+}
+
+
+.obscuro{
+    color: #787878
+}
