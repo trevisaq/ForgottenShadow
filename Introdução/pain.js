@@ -13,6 +13,6 @@ entrar.addEventListener('click', () => {
     if (resposta === respostareal){
         alert('...Parabéns, você mandou bem!')
         sleep(10000)
-        window.location.href = "../Desafios/desafio1.html"
+        window.location.href = "../Desafios/desafio1/desafio1.html"
     }
 });
