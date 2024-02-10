@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = 'raios';
+var respostareal = 'wyatt';
 var sleepSetTimeout_ctrl;
 
 

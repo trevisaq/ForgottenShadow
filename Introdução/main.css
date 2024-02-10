@@ -13,7 +13,7 @@ body{
     color:gainsboro
 }
 
-.card1{
+.centralizar{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,3 +28,16 @@ body{
 .obscuro{
     color: #787878
 }
+
+.textos{
+    margin-top: 250px;
+}
+
+
+
+.creditos{
+    margin-top:  380px;
+    margin-left: 1180px;
+    color: #787878
+}
+

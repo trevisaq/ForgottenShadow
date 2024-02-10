@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = '';
+var respostareal = 'hachiko';
 var sleepSetTimeout_ctrl;
 
 
@@ -9,6 +9,6 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('...Parabéns, você mandou bem!')
-        window.location.href = "../desafio2/desafio2.html"
+        window.location.href = "../desafio4/desafio4.html"
     }
 });

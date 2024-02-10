@@ -5,7 +5,7 @@
 }
 
 .textos{
-    margin-top: 300px;
+    margin-top: 250px;
 }
 
 body{
@@ -17,7 +17,7 @@ body{
     color:gainsboro
 }
 
-.card1{
+.centralizar{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,4 +37,23 @@ body{
 .obscuro{
     color: #212121;
     margin-top: 300px;
+}
+
+
+#marie{
+    size: 600, 400px;
+}
+
+.obscuro1{
+    color: #212121;
+}
+
+
+
+
+
+#marie{
+    width: 350px;
+    height: 470px;
+    margin-top: 150px;
 }

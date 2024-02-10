@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = '';
+var respostareal = 'pierre';
 var sleepSetTimeout_ctrl;
 
 
@@ -9,6 +9,6 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('...Parabéns, você mandou bem!')
-        window.location.href = "../desafio2/desafio2.html"
+        window.location.href = "../desafio5/desafio5.html"
     }
 });
