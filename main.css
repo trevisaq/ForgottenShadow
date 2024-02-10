@@ -1,0 +1,43 @@
+.imagens{
+    width: 550px;
+    height: 350px;
+    margin-top: 150px;
+}
+
+body{
+    background-color: #212121;
+    font-family: 'Playfair Display';font-size: 22px;
+}
+
+.claro{
+    color:gainsboro
+}
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    margin: 20px;
+}
+
+
+.obscuro{
+    color: #787878
+}
+
+.textos{
+    margin-top: 250px;
+}
+
+
+
+.creditos{
+    margin-top:  380px;
+    margin-left: 1180px;
+    color: #787878
+}
+
