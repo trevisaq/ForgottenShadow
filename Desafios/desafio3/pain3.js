@@ -10,5 +10,7 @@ entrar.addEventListener('click', () => {
     if (resposta === respostareal){
         alert('...Parabéns, você mandou bem!')
         window.location.href = "../desafio4/desafio4.html"
+    } else{
+        alert('Acho que não.')
     }
 });
