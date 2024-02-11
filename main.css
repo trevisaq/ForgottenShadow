@@ -1,3 +1,5 @@
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   GERAL   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
 .imagens{
     width: 550px;
     height: 350px;
@@ -9,9 +11,37 @@ body{
     font-family: 'Playfair Display';font-size: 22px;
 }
 
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   BOTAO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
+
+.btn{
+    margin: 20px;
+}
+
+
+.aviso{
+    color:crimson;
+}
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   TEXTO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
+.textos{
+    margin-top: 250px;
+}
+
+
 .claro{
     color:gainsboro
 }
+
+.creditos{
+    margin-top:  380px;
+    margin-left: 1180px;
+    color: #787878
+}
+
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   DIV   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
 
 .centralizar{
     display: flex;
@@ -20,24 +50,4 @@ body{
     flex-direction: column;
 }
 
-.btn{
-    margin: 20px;
-}
-
-
-.obscuro{
-    color: #787878
-}
-
-.textos{
-    margin-top: 250px;
-}
-
-
-
-.creditos{
-    margin-top:  380px;
-    margin-left: 1180px;
-    color: #787878
-}
 
