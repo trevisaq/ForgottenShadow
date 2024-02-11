@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = 'wyatt';
+var respostareal = 'hachiko';
 var sleepSetTimeout_ctrl;
 
 
