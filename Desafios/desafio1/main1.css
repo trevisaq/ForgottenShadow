@@ -58,7 +58,6 @@ body{
 }
 
 
-
 /* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   DIV   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
 
 
@@ -81,4 +80,12 @@ body{
     width: 350px;
     height: 350px;
     margin-top: 150px;
+}
+
+.letra{
+    color: aqua;
+}
+
+.muitobaixo{
+    margin-top: 320px;
 }

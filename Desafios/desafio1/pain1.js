@@ -1,5 +1,5 @@
 var entrar = document.getElementById('entrar');
-var respostareal = 'raios';
+var respostareal = 'cachoeira';
 var sleepSetTimeout_ctrl;
 
 
