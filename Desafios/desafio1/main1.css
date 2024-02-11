@@ -1,37 +1,29 @@
-.imagens{
-    width: 550px;
-    height: 350px;
-    margin-top: 150px;
-}
 
-.textos{
-    margin-top: 250px;
-}
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   GERAL   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
 
 body{
     background-color: #212121;
     font-family: 'Playfair Display';font-size: 22px;
 }
 
-.claro{
-    color:gainsboro
+.imagens{
+    width: 550px;
+    height: 350px;
+    margin-top: 150px;
 }
 
-.centralizar{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
+
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   BOTAO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
 
 .btn{
     margin: 20px;
 }
 
 
-.creditos{
-    color: #787878
-}
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   TEXTO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
 
 
 .obscuro{
@@ -40,25 +32,47 @@ body{
 }
 
 
-#marie{
-    size: 600, 400px;
-}
-
-.obscuro1{
-    color: #212121;
+.textos{
+    margin-top: 250px;
 }
 
 
+.creditos{
+    color: #787878
+}
+
+
+.claro{
+    color:gainsboro
+}
+
+
+.baixo{
+    margin-top: 100px;
+}
 
 
 
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   DIV   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   EXPECIFICO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
 #marie{
     width: 350px;
     height: 470px;
     margin-top: 150px;
 }
 
-
-.baixo{
-    margin-top: 100px;
+#cesar{
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
 }
