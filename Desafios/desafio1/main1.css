@@ -82,10 +82,6 @@ body{
     margin-top: 150px;
 }
 
-.letra{
-    color: aqua;
-}
-
 .muitobaixo{
     margin-top: 320px;
 }
@@ -102,5 +98,9 @@ body{
 .frasedeefeito{
     margin-top:  250px;
     margin-left: 1440px;
-    color: #787878
+    color: #787878;
+}
+
+.obscuro2{
+    color: #2E2E2E;
 }
