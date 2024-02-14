@@ -8,9 +8,9 @@ entrar.addEventListener('click', () => {
     let resposta = prompt('');
 
     if (resposta === respostareal){
-        alert('...Parabéns, você mandou bem!')
+        alert('Inacreditável :D')
         window.location.href = "../Final/index.html"
     } else{
-        alert('Acho que não.')
+        alert('Quase lá... só que não')
     }
 });

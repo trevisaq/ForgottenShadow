@@ -8,9 +8,9 @@ entrar.addEventListener('click', () => {
     let resposta = prompt('');
 
     if (resposta === respostareal){
-        alert('...Parabéns, você mandou bem!')
+        alert('Admita, foi uma boa piada')
         window.location.href = "../desafio6/desafio6.html"
     } else{
-        alert('Acho que não.')
+        alert('Quem diria... Erradissimo')
     }
 });

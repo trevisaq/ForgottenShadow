@@ -8,7 +8,9 @@ entrar.addEventListener('click', () => {
     let resposta = prompt('');
 
     if (resposta === respostareal){
-        alert('...Parabéns, você mandou bem!')
+        alert('Ai sim!!')
         window.location.href = "../Desafios/desafio1/desafio1.html"
+    } else{
+        alert('Leu mesmo as regras?')
     }
 });

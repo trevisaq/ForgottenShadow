@@ -8,9 +8,13 @@ entrar.addEventListener('click', () => {
     let resposta = prompt('');
 
     if (resposta === respostareal){
-        alert('...Parabéns, você mandou bem!')
+        alert('ELE MESMO!!')
         window.location.href = "../desafio4/desafio4.html"
     } else{
-        alert('Acho que não.')
+        alert('Não, não, não.')
     }
 });
+
+
+
+

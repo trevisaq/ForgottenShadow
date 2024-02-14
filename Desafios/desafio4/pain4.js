@@ -7,7 +7,7 @@ var sleepSetTimeout_ctrl;
 entrar.addEventListener('click', () => {
     let resposta = prompt('');
     if (resposta === respostareal){
-        alert('...Parabéns, você mandou bem!')
+        alert('Acerto, miserávi')
         window.location.href = "../desafio5/desafio5.html"
     } else{
         alert('Acho que não.')
