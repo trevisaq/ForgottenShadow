@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('Isso mesmo!, até que não foi dificil')
-        window.location.href = "../desafio2/desafio2.html"
+        window.location.href = "../desafio2/Sistematico.html"
     } else{
         alert('Acho que não.')
     }

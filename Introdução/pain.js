@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('Ai sim!!')
-        window.location.href = "../Desafios/desafio1/desafio1.html"
+        window.location.href = "../Desafios/desafio1/UmBeloLugar.html"
     } else{
         alert('Leu mesmo as regras?')
     }

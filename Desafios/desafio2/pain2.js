@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('Parabéns, você mandou bem!')
-        window.location.href = "../desafio3/desafio3.html"
+        window.location.href = "../desafio3/Auau.html"
     } else{
         alert('Erroooou')
     }
