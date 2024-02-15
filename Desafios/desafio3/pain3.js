@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('ELE MESMO!!')
-        window.location.href = "../desafio4/desafio4.html"
+        window.location.href = "../desafio4/T3E2.html"
     } else{
         alert('Não, não, não.')
     }

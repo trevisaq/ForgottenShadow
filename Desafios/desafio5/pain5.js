@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('Admita, foi uma boa piada')
-        window.location.href = "../desafio6/desafio6.html"
+        window.location.href = "../desafio6/Doze.html"
     } else{
         alert('Quem diria... Erradissimo')
     }

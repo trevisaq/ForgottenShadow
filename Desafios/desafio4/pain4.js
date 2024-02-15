@@ -8,7 +8,7 @@ entrar.addEventListener('click', () => {
     let resposta = prompt('');
     if (resposta === respostareal){
         alert('Acerto, miserávi')
-        window.location.href = "../desafio5/desafio5.html"
+        window.location.href = "../desafio5/Radio.html"
     } else{
         alert('Acho que não.')
     }

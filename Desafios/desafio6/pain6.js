@@ -9,7 +9,7 @@ entrar.addEventListener('click', () => {
 
     if (resposta === respostareal){
         alert('!!ia ossI')
-        window.location.href = "../desafio7/desafio7.html"
+        window.location.href = "../desafio7/Moeda.html"
     } else{
         alert('oãn euq ohcA')
     }
