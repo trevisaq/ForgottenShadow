@@ -76,6 +76,16 @@ body{
     margin-top: 150px;
 }
 
+#local{
+    transition: filter 0.5s ease-in-out;
+    filter: grayscale(100%); /* Inicia em preto e branco */
+}
+
+#local:hover{
+    filter: grayscale(0%); /* Inicia em preto e branco */
+}
+
+
 #cesar{
     width: 350px;
     height: 350px;
