@@ -2,8 +2,6 @@ var entrar = document.getElementById('entrar');
 var respostareal = 'cresce';
 var sleepSetTimeout_ctrl;
 
-
-
 entrar.addEventListener('click', () => {
     let resposta = prompt('');
 

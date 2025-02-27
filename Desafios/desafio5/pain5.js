@@ -10,7 +10,11 @@ entrar.addEventListener('click', () => {
     if (resposta === respostareal){
         alert('Admita, foi uma boa piada')
         window.location.href = "../desafio6/Doze.html"
-    } else{
+    }
+    if (resposta == 'marie' || resposta == 'curie'){
+        alert('É, é ela. Mas não é dela que estou falando.')
+    }
+    else{
         alert('Quem diria... Erradissimo')
     }
 });
