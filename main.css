@@ -1,0 +1,40 @@
+
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-color: #212121;
+    font-family: 'Playfair Display';font-size: 22px;
+}
+
+
+/* / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   TEXTO   / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / */
+
+.textos{
+    margin-top: 250px;
+}
+
+
+.claro{
+    color:gainsboro
+}
+
+
+.aviso{
+    color:crimson;
+}
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.creditos{
+    margin: 60px 
+}
+
+
